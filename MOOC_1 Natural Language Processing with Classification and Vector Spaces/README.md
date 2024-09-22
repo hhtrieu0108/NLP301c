@@ -16,3 +16,9 @@
 
 ### 5. Putting it all together
 ![putting_it_all_together](images/putting_it_all_together.png)
+
+### 6. Logistic Regression overview
+![logistic_regression_overview](images/logistic_regression_overview.png)
+
+### 7. Logistic Regression Training
+![logistic_regression_training](images/logistic_regression_training.png)
