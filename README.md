@@ -14,4 +14,5 @@
 ### 4. Preprocssing Text
 ![preprocessing](images/preprocessing.png)
 
-##
+### 5. Putting it all together
+![putting_it_all_together](images/putting_it_all_together.png)
