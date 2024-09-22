@@ -22,3 +22,6 @@
 
 ### 7. Logistic Regression Training
 ![logistic_regression_training](images/logistic_regression_training.png)
+
+### 8. Logistic Regression Testing
+![logistic_regression_testing](images/logistic_regression_testing.png)
