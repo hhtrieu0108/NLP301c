@@ -21,3 +21,15 @@
 
 ### 6. Training Naive Bayes
 ![training_naive_bayes](images/training_naive_bayes.png)
+
+### 7. Testing Naive Bayes
+![testing_naive_bayes](images/testing_naive_bayes.png)
+
+### 8. Application of Naive Bayes
+![application_of_naive_bayes](images/application_of_naive_bayes.png)
+
+### 9. Naive Bayes Assumptions
+![naive_bayes_assumptions](images/naive_bayes_assumptions.png)
+
+### 10. Error Analysis
+![error_analysis](images/error_analysis.png)
