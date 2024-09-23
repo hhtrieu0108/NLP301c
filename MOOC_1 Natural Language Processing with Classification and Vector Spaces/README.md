@@ -24,4 +24,10 @@
 ![logistic_regression_training](images/logistic_regression_training.png)
 
 ### 8. Logistic Regression Testing
-![logistic_regression_testing](images/logistic_regression_testing.png)
+![logistic_regression_testing](images/logistic_regression_testing.png) 
+
+### 9. Cost Function for logistic regression
+#### 9.1 Left Hand
+![left-hand-logistic-regression](images/left-hand-logistic-regression.png)
+#### 9.2 Right Hand
+![right-hand-logistic-regression](images/right-hand-logistic-regression.png)
