@@ -1,6 +1,4 @@
-# SPEC: Natural Language Processing Specialization
-
-## MOOC 1: Natural Language Processing with Classification and Vector Spaces
+# WEEK 1
 
 ### 1. Supervised ML Training
 ![supervised_ml_trainig](images/supervised_ml_sentiment.png)
