@@ -18,3 +18,6 @@
 
 #### 5.1 Part 2
 ![log_likelihood_part2](images/log_likelihood_part2.png)
+
+### 6. Training Naive Bayes
+![training_naive_bayes](images/training_naive_bayes.png)
