@@ -5,3 +5,9 @@
 
 ### 2. Word by Word and Word by Doc
 ![word_by_word_and_word_by_doc](images/word_by_word_and_word_by_doc.png)
+
+### 3. Euclidiann Distance
+![euclidian_distance](images//euclidian_distance.png)
+
+### 4. Consine Similariry: Intuition
+![cosine_similarity_intuition](images/cosine_similarity_intuition.png)
