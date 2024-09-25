@@ -11,3 +11,6 @@
 
 ### 4. Consine Similariry: Intuition
 ![cosine_similarity_intuition](images/cosine_similarity_intuition.png)
+
+### 5. Cosine Similarity:
+![cosine_similarity](images/cosine_similarity.png)
