@@ -14,3 +14,6 @@
 
 ### 5. Cosine Similarity:
 ![cosine_similarity](images/cosine_similarity.png)
+
+### 6. Mnipulating word in vector space
+![manipulating_words_in_vector_spaces](images/manipulating_words_in_vector_spaces.png)
