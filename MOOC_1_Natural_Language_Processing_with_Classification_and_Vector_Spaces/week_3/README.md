@@ -17,3 +17,9 @@
 
 ### 6. Mnipulating word in vector space
 ![manipulating_words_in_vector_spaces](images/manipulating_words_in_vector_spaces.png)
+
+### 7. Visualization and PCA
+![visualization_and_PCA](images/visualization_and_PCA.png)
+
+### 8. PCA Algorithm
+![PCA_algorithm](images/PCA_algorithm.png)
