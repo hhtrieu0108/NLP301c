@@ -23,3 +23,6 @@
 
 ### 8. PCA Algorithm
 ![PCA_algorithm](images/PCA_algorithm.png)
+
+### 9. Transforming Word Vectors
+![transforming_word_vector](images/transforming_word_vectors.png)
