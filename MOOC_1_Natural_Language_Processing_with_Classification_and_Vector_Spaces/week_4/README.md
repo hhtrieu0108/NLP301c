@@ -2,3 +2,12 @@
 
 ### 1. Transforming Word Vectors
 ![transforming_word_vector](images/transforming_word_vectors.png)
+
+### 2. K-nearest Neighbor
+![k-nearest-neighbors](images/k-nearest-neighbors.png)
+
+### 3. Hash Table and Hash Function
+![hash-table-and-hash-function](images///hash-table-and-hash-function.png)
+
+### 4. Locality Sensitive Hashing
+![locality_sensitive_hashing](images/locality_sensitive_hashing.png)
