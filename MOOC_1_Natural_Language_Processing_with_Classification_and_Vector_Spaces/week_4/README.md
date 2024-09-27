@@ -11,3 +11,6 @@
 
 ### 4. Locality Sensitive Hashing
 ![locality_sensitive_hashing](images/locality_sensitive_hashing.png)
+
+### 5. Multiple Planes
+![multiple_planes](images/multiple_planes.png)
