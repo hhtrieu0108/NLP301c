@@ -14,3 +14,6 @@
 
 ### 5. Multiple Planes
 ![multiple_planes](images/multiple_planes.png)
+
+### 6. Approximate Nearest Neighbors
+![approximate_nearest_neighbors](images/approximate_nearest_neighbors.png)
