@@ -17,3 +17,6 @@
 
 ### 6. Approximate Nearest Neighbors
 ![approximate_nearest_neighbors](images/approximate_nearest_neighbors.png)
+
+### 7. Searching Documents
+![searching_documents](images/searching_documents.png)
