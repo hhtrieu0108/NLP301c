@@ -8,3 +8,6 @@
 
 ## Building the model II
 ![builiding_the_model_2](images/builiding_the_model_2.png)
+
+## Minimum Edit Distance
+![minimum_edit_distance](images/minimum_edit_distance.png)
