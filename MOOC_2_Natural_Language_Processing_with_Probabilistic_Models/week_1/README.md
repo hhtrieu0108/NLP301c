@@ -17,3 +17,6 @@
 
 ## Minimum Edit Distance Algorith II
 ![minimum_edit_distance_algorithm_2](images/minimum_edit_distance_algorithm_2.png)
+
+## Minimum Edit Distance Algorith III
+![minimum_edit_distance_algorithm_3](images/minimum_edit_distance_algorithm_3.png)
